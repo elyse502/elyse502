@@ -7,7 +7,9 @@ I'm Elysée NIYIBIZI from Rwanda, I am a Full-stack Software Engineer Intern @al
 Skills: VUE JS / REACT / JS / HTML / CSS / C
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning C Programming 
+- 📫 How to reach me: phone Number: +250784652570 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elyse502)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niyibizi-elysée/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/7.le_fils_de_dieu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Niyibizi_Elyse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/niyibizielysee953)  
 
