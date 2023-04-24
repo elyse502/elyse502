@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Elysée NIYIBIZI 👑💻🇷🇼
-#### Full Stack Software Engineer
+### Hi there 👋, I'm Elysée NIYIBIZI👑🇷🇼✌️
+#### Full Stack Software Engineer💻
 ![Full Stack Software Engineer](https://github.com/elyse502/elyse502/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
 
 I'm Elysée NIYIBIZI from Rwanda, I am a Full-stack Software Engineer Intern @alx_africa and writer. I love programming, reading, writing and speaking. As a Software Engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
