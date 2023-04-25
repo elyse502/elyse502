@@ -19,4 +19,16 @@ My Name is Elysée NIYIBIZI from Rwanda🇷🇼, I'm a Full-stack Software Engin
 - 📫 How to reach me: **elyseniyibizi502@gmail.com** & Phone Number: **+250784652570**.
 
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elyse502)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niyibizi-elysée/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/7.le_fils_de_dieu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Niyibizi_Elyse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/niyibizielysee953)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elyse502)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niyibizi-elysée/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/7.le_fils_de_dieu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Niyibizi_Elyse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/niyibizielysee953) 
+
+<h3 align="center">A Passionate Frontend Developer from Rwanda.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyse502&label=Profile%20views&color=0e75b6&style=flat" alt="elyse502" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elyse502" alt="elyse502" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&locale=en" alt="elyse502" /></p>
