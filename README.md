@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python. 
+- 🌱 I’m currently learning Python `@alx_africa`. 
 - 📫 How to reach me: **elyseniyibizi502@gmail.com** & Phone Number: **+250784652570**.
 
 <h3 align="left">Connect with me:</h3>
