@@ -37,7 +37,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elyse502" alt="elyse502" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Stats:</h3>
 <p align="left">
 </p>
 
