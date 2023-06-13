@@ -39,6 +39,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elyse502)
 
+![Profile Views](https://komarev.com/ghpvc/?username=elyse502&label=Total%20Visits&color=0e75b6&style=flat)
 
 # 🤝 Support
 If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️
