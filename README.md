@@ -33,12 +33,27 @@
 
 <h3 align="center">A Passionate Frontend Developer from Rwanda🇷🇼</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyse502&label=Profile%20views&color=0e75b6&style=flat" alt="elyse502" /> </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elyse502" alt="elyse502" /></a> </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&count_private=true)
 
-<h3 align="left">My Stats:</h3>
-<p align="left">
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elyse502)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&locale=en" alt="elyse502" /></p>
+
+# 🤝 Support
+If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/elyseniyibizi)
+
+## 🎀 Contributions, 🔥 Issues, and 🥮 Feature Requests
+Contributions, issues, and feature requests are always welcome! Please feel free to create issues or submit pull requests following the GitHub Flow. 🚀
+
+## 💙 Give it a Star, Share with Friends ✌️
+If you like my projects, don't forget to give them a ⭐️ and share them with your friends and colleagues!
+
+## Let's ❤️ Code 😉
+I'm passionate about coding and building interesting projects. Let's collaborate and create amazing things together!
+
+# ⚡️ Stay Awesome! ⚡️
+*Thank you for visiting my profile and supporting my work. Stay awesome and keep coding! 💪*
+
