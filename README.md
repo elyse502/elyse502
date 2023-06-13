@@ -57,7 +57,7 @@ If you like my projects, don't forget to give them a ⭐️ and share them with 
 ![matrix](https://github.com/elyse502/elyse502/assets/125453474/da7f4b3a-3a77-48f3-aab1-dc7b0b7b4295)
 
 # ⚡️ Stay Awesome! ⚡️
-*Thank you for visiting my profile and supporting my work. Stay awesome and keep coding! 💪*
+*__Thank you for visiting my profile and supporting my work. Stay awesome and keep coding! 💪__*
 
 ![Bottom](https://github.com/elyse502/elyse502/assets/125453474/41d84c08-8bad-401c-b489-25775e745cae)
 
