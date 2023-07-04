@@ -52,7 +52,7 @@ If you find my projects helpful or interesting, you can support me by buying me 
 
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/elyseniyibizi)
 
-## 🎀 Contributions, 🔥 Issues, and 🥮 Feature Requests
+## 🎀 Contributions, 🔥 Issues, and 🥮 Feature Requests🗝️
 Contributions, issues, and feature requests are always welcome! Please feel free to create issues or submit pull requests following the GitHub Flow. 🚀
 
 ## 💙 Give it a Star, Share with Friends ✌️
