@@ -39,6 +39,10 @@
 <p align="left">
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyse502&show_icons=true&locale=en&layout=compact" alt="elyse502" /></p>
+<p align="left">
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&locale=en" alt="elyse502" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyse502&" alt="elyse502" /></p>
