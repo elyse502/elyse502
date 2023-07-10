@@ -47,6 +47,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elyse502&label=Total%20Visits&color=0e75b6&style=flat)
 
+![68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f69797374633536637537723974623861316665373665](https://github.com/elyse502/elyse502/assets/125453474/d2d77917-74e7-4e68-98ee-128b8f548035)
 # 🤝 Support
 If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️
 
