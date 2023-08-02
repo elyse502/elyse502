@@ -1,7 +1,13 @@
-# 😇Hi there 👋, This is Elysée NIYIBIZI👑🇷🇼✌️
+
+#  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 7%>  😇Hi there 👋, This is Elysée NIYIBIZI👑🇷🇼✌️  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%> </h1>
+<p align='center'>
+  
 ![My Banner](https://github.com/elyse502/elyse502/assets/125453474/51d554b8-89d4-4e80-9cb2-469a97e46f36)
 
-### 😊I'm Glad to see you here🤝!
+### 😊I'm Glad to see you here🤝! :octocat:
+
+![](https://visitor-badge.laobi.icu/badge?page_id=elyse502.elyse502)      [![Github](https://img.shields.io/github/followers/elyse502?label=Follow&style=social)](https://github.com/elyse502)
+
 ## 📍*Full Stack Software Engineer💻*
 ![Full Stack Software Engineer](https://github.com/elyse502/elyse502/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
 # 🆔Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼 
@@ -9,22 +15,22 @@
 
 ![7_Do-hard-things-100](https://github.com/elyse502/elyse502/assets/125453474/6d58ea70-e504-4fa1-ac6c-14cac7dccd01)
 
-## Skills and Experience
+## Skills and Experience <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%>
 * 🔅 React
 * 📱 React Native
 * 💻 HTML, CSS, JC
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🚀:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-## Talking about Personal Stuff
+## Talking about Personal Stuff 🤠
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python [@alx_africa](https://www.alxafrica.com/).
 - 💬 Ask me about anything tech related, I am happy to help;
 - 💻 I love writing code and learn anythings about it👌. 
 - 📫 How to reach me: **elyseniyibizi502@gmail.com** & Phone Number: **+250784652570**.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%"> </h3>
 <p align="left">
 <a href="https://twitter.com/niyibizi_elyse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niyibizi_elyse" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niyibizi-elysée" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyibizi-elysée" height="30" width="40" /></a>
@@ -37,15 +43,9 @@
 
 <h3 align="center">A Passionate Backend Developer from Rwanda🇷🇼</h3>
 
-# 📊 Github Stats 
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyse502&show_icons=true&locale=en&layout=compact" alt="elyse502" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&locale=en" alt="elyse502" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyse502&" alt="elyse502" /></p>
+<h2> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> </h2>
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&theme=tokyonight)                               ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=tokyonight) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elyse502&label=Total%20Visits&color=0e75b6&style=flat)
 
