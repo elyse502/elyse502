@@ -73,14 +73,33 @@
 
 
 <h3 align="center">A Passionate Backend Developer from Rwanda🇷🇼</h3>
-
-<h2> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> </h2>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&theme=tokyonight)                               ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=tokyonight) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyse502&" alt="elyse502" /></p>
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'></h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=elyse502&label=Total%20Visits&color=0e75b6&style=flat)
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Elysee's github stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=dark&hide_title=true)](https://github.com/elyse502)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/elyse502)|![elyse502](https://github-readme-streak-stats.herokuapp.com/?user=elyse502&theme=dark)
+<hr>
 
-![68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f69797374633536637537723974623861316665373665](https://github.com/elyse502/elyse502/assets/125453474/d2d77917-74e7-4e68-98ee-128b8f548035)
+<!-- START NEW SECTION -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{elyse502}/count.svg" /></p> 
+<br></div>
+
+
+<p align="center">
+<!-- <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
+ <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<!--  <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
+</p>
+<hr>
+
+<p align="center">
+ <img src="https://github.com/elyse502/elyse502/assets/125453474/d2d77917-74e7-4e68-98ee-128b8f548035" width=400 height=340>
+</p>
 
 # 📊 This week i spent my time on ✨:
 <!--START_SECTION:waka-->
@@ -134,8 +153,8 @@ If you like my projects, don't forget to give them a ⭐️ and share them with 
 ## Let's ❤️ Code 😉
 **I'm passionate about coding and building interesting projects. Let's collaborate and create amazing things together!**
 
-![matrix](https://github.com/elyse502/elyse502/assets/125453474/da7f4b3a-3a77-48f3-aab1-dc7b0b7b4295)
-
+<img src="https://github.com/elyse502/elyse502/assets/125453474/b3362eeb-ff56-4320-89a7-f1fb80f73a9f" width=1000>
+  
 # ⚡️ Stay Awesome! ⚡️
 *__Thank you for visiting my profile and supporting my work. Stay awesome and keep coding! 💪__*
 
