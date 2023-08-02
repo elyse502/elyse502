@@ -23,6 +23,36 @@
 <h3 align="left">Languages and Tools 🚀:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
+## Tech stack 
+### I work with:<br/>
+[![Python, C, C++, Javascript, HTML, CSS, Regex, jQuery, Markdown, Vim, Bash, Git, Docker, MySQL, SQLite, Github, Arduino, Django, FastAPI, Flask, Matlab, MongoDB, NGINX, Postgresql, Postman, Redis, Tensorflow, VSCode](https://skillicons.dev/icons?i=py,c,cpp,js,html,css,regex,jquery,md,vim,linux,bash,git,docker,mysql,sqlite,github,arduino,django,fastapi,flask,matlab,mongodb,nginx,postgres,postman,redis,tensorflow,vscode&perline=6)](https://skillicons.dev)
+
+### I also know:<br/>
+[![NodeJS, ExpressJS, Tailwind, Raspberry, Figma, Typescript](https://skillicons.dev/icons?i=nodejs,express,tailwind,raspberrypi,figma,ts)](https://skillicons.dev)
+
+<br/>
+
+## Data Science Tools:
+<img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
+<img align="left" alt="Numpy" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
+<img align="left" alt="Pandas" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+<img align="left" alt="Matplotlib" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+<img align="left" alt="Seaborn" width="100px" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" />
+<img align="left" alt="Scipy" width="100px" src="https://www.fullstackpython.com/img/logos/scipy.png" />
+<img align="left" alt="Scikit learn" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
+<br/ >
+<br/>
+<br/>
+<br/>
+
+## Software I use
+
+![Inkscape](https://img.shields.io/badge/Inkscape-0078d7.svg?style=for-the-badge&logo=inkscape&logoColor=white)
+![GNU Emacs](https://img.shields.io/badge/VI%20%26%20Vim-A23C9A.svg?style=for-the-badge&logo=vim&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ## Talking about Personal Stuff 🤠
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python [@alx_africa](https://www.alxafrica.com/).
@@ -33,6 +63,7 @@
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%"> </h3>
 <p align="left">
 <a href="https://twitter.com/niyibizi_elyse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niyibizi_elyse" height="30" width="40" /></a>
+<a href="https://www.discord.com/channels/@niyibizi_elysee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="niyibizi-elysee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niyibizi-elysée" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyibizi-elysée" height="30" width="40" /></a>
 <a href="https://fb.com/elyse.jadendrakstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elyse.jadendrakstar" height="30" width="40" /></a>
 <a href="https://instagram.com/7.le_fils_de_dieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7.le_fils_de_dieu" height="30" width="40" /></a>
@@ -50,6 +81,28 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=elyse502&label=Total%20Visits&color=0e75b6&style=flat)
 
 ![68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f69797374633536637537723974623861316665373665](https://github.com/elyse502/elyse502/assets/125453474/d2d77917-74e7-4e68-98ee-128b8f548035)
+
+# 📊 This week i spent my time on:
+<!--START_SECTION:waka-->
+
+```text
+Python                   10 hrs 35 mins  █████████████░░░░░░░░░░░░   47.94 %
+C Programming Language   08 hrs 07 mins  █████████░░░░░░░░░░░░░░░░   29.98 %
+Bash                     05 hrs 02 mins  ██████░░░░░░░░░░░░░░░░░░░   22.08 %
+```
+<br />
+
+<!--END_SECTION:waka-->
+
+<br />
+
+## Joke of the Day 🤗
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
+<br />
+
+
 # 🤝 Support
 If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️
 
