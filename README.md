@@ -45,7 +45,7 @@
 
 <h2> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> </h2>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&theme=tokyonight)                               ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=tokyonight) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&theme=tokyonight)                               ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=tokyonight) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyse502&" alt="elyse502" /></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elyse502&label=Total%20Visits&color=0e75b6&style=flat)
 
