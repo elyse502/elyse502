@@ -1,4 +1,3 @@
-
 #  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 7%>  😇Hi there 👋, This is Elysée NIYIBIZI👑🇷🇼✌️  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%> </h1>
 <p align='center'>
   
@@ -73,6 +72,17 @@
 
 
 <h3 align="center">A Passionate Backend Developer from Rwanda🇷🇼</h3>
+
+<!-- START NEW SECTION -->
+<p align="center">
+<!--   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />   -->
+  <h2 align="center">My Github Profile Trophy🏆</h2>
+</p>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=elyse502&theme=radical&margin-w=40&margin-h=40)](https://github.com/elyse502) -->
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=elyse502&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/elyse502)
+<hr>
  
 <!-- START NEW SECTION -->
 <p align="center">
