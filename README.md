@@ -37,6 +37,8 @@
 
 <br/>
 
+
+
 ## Data Science Tools 💼:
 <img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
@@ -67,8 +69,8 @@
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%"> </h3>
 <p align="left">
+  <a href="https://www.discord.com/channels/@niyibizi_elysee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="niyibizi-elysee" height="30" width="40" /></a>
 <a href="https://twitter.com/niyibizi_elyse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niyibizi_elyse" height="30" width="40" /></a>
-<a href="https://www.discord.com/channels/@niyibizi_elysee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="niyibizi-elysee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niyibizi-elysée" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyibizi-elysée" height="30" width="40" /></a>
 <a href="https://fb.com/elyse.jadendrakstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elyse.jadendrakstar" height="30" width="40" /></a>
 <a href="https://instagram.com/7.le_fils_de_dieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7.le_fils_de_dieu" height="30" width="40" /></a>
