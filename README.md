@@ -94,14 +94,31 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br />
 
-## Joke of the Day 🤗
+<div align="center">
+ <br>
+ <p align="centre"><b> Joke of the Day 🤗</b></p>
+ 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ 
+<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<br>
+</div>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+<!-- START NEW SECTION -->
 
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
 
+
+<!-- GITHUB ACTIVITY GRAPH -->
+<!-- ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark) -->
+
+  </p>
 
 # 🤝 Support
 If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️
