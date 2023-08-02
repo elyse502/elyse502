@@ -17,6 +17,9 @@
 
 ![7_Do-hard-things-100](https://github.com/elyse502/elyse502/assets/125453474/6d58ea70-e504-4fa1-ac6c-14cac7dccd01)
 
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
+
 ## Skills and Experience <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%>
 * 🔅 React
 * 📱 React Native
