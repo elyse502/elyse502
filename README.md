@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools 🚀:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-## Tech stack 
+## Tech stack 💱〽♻☣☢
 ### I work with:<br/>
 [![Python, C, C++, Javascript, HTML, CSS, Regex, jQuery, Markdown, Vim, Bash, Git, Docker, MySQL, SQLite, Github, Arduino, Django, FastAPI, Flask, Matlab, MongoDB, NGINX, Postgresql, Postman, Redis, Tensorflow, VSCode](https://skillicons.dev/icons?i=py,c,cpp,js,html,css,regex,jquery,md,vim,linux,bash,git,docker,mysql,sqlite,github,arduino,django,fastapi,flask,matlab,mongodb,nginx,postgres,postman,redis,tensorflow,vscode&perline=6)](https://skillicons.dev)
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-## Data Science Tools:
+## Data Science Tools 💼:
 <img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
 <img align="left" alt="Numpy" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-## Software I use
+## Software I use 💻
 
 ![Inkscape](https://img.shields.io/badge/Inkscape-0078d7.svg?style=for-the-badge&logo=inkscape&logoColor=white)
 ![GNU Emacs](https://img.shields.io/badge/VI%20%26%20Vim-A23C9A.svg?style=for-the-badge&logo=vim&logoColor=white)
