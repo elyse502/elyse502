@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-## Software I use 💻
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software I use <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Inkscape](https://img.shields.io/badge/Inkscape-0078d7.svg?style=for-the-badge&logo=inkscape&logoColor=white)
 ![GNU Emacs](https://img.shields.io/badge/VI%20%26%20Vim-A23C9A.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -68,6 +68,7 @@
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%"> </h3>
 <p align="left">
   <a href="https://www.discord.com/channels/@niyibizi_elysee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="niyibizi-elysee" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:21958900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21958900" height="30" width="40" /></a>
 <a href="https://twitter.com/niyibizi_elyse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niyibizi_elyse" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niyibizi-elysée" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyibizi-elysée" height="30" width="40" /></a>
 <a href="https://fb.com/elyse.jadendrakstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elyse.jadendrakstar" height="30" width="40" /></a>
@@ -155,10 +156,16 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 
   </p>
 
-# 🤝 Support
-If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️
+<p align="center">
+ <h2 align="center"> 🤝 Support </h2>
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/elyseniyibizi)
+<br>
+<p align="center"> If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️ </p>
+<p align="center"><a href="https://www.buymeacoffee.com/silvernicks"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/elyseniyibizi" /></a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
+<br>
 
 ## 🎀 Contributions, 🔥 Issues, and 🥮 Feature Requests🗝️
 Contributions, issues, and feature requests are always welcome! Please feel free to create issues or submit pull requests following the GitHub Flow. 🚀
