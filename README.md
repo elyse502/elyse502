@@ -178,8 +178,11 @@ If you like my projects, don't forget to give them a ⭐️ and share them with 
 
 <img src="https://github.com/elyse502/elyse502/assets/125453474/b3362eeb-ff56-4320-89a7-f1fb80f73a9f" width=1000>
   
-# ⚡️ Stay Awesome! ⚡️
-*__Thank you for visiting my profile and supporting my work. Stay awesome and keep coding! 💪__*
+<p align="center">
+ <h2 align="center"> ⚡️ Stay Awesome! ⚡️ </h2>
 
+<br>
+<p align="center">  Thank you for visiting my profile and supporting my work. Stay awesome and keep coding! 💪 </p>
+ 
 ![Bottom](https://github.com/elyse502/elyse502/assets/125453474/41d84c08-8bad-401c-b489-25775e745cae)
 
