@@ -5,6 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;MEET+A+PROGRAMMER,;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+CODING+AND+WATCHING+FOOTBALL+:%29)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 😊I'm Glad to see you here🤝! :octocat:
 
@@ -19,6 +20,8 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Skills and Experience <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%>
 * 🔅 React
