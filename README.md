@@ -83,6 +83,11 @@
 
 <h3 align="center"> 💻 A Passionate Backend Developer from Rwanda 🇷🇼</h3>
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/elyse502"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Back-End+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
+</p>
+
 <!-- START NEW SECTION -->
 <p align="center">
 <!--   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />   -->
