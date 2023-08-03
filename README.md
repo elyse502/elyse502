@@ -174,7 +174,7 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 <p align="center"> If you like my projects, don't forget to give them a ⭐️ and share them with your friends and colleagues! </p>
 
 <p align="center"> <h2 align="center"> Let's ❤️ Code 😉 </h2>
-<p align="center"> I'm passionate about coding and building interesting projects. Let's collaborate and create amazing things together! </p>
+<p align="center"> I'm passionate about coding and building interesting projects. Let's collaborate and create amazing things together 📊 </p>
 
 <div id="header" align="center"> <img src="https://github.com/elyse502/elyse502/assets/125453474/b3362eeb-ff56-4320-89a7-f1fb80f73a9f" width="600"/> </div>
   
