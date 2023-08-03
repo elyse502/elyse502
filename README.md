@@ -78,7 +78,7 @@
 </p>
 
 
-<h3 align="center">A Passionate Backend Developer from Rwanda🇷🇼</h3>
+<h3 align="center"> 💻 A Passionate Backend Developer from Rwanda 🇷🇼</h3>
 
 <!-- START NEW SECTION -->
 <p align="center">
