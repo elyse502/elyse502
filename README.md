@@ -167,16 +167,16 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
 <br>
 
-## 🎀 Contributions, 🔥 Issues, and 🥮 Feature Requests🗝️
-Contributions, issues, and feature requests are always welcome! Please feel free to create issues or submit pull requests following the GitHub Flow. 🚀
+<p align="center"> <h2 align="center"> 🎀 Contributions, 🔥 Issues, and 🥮 Feature Requests🗝️ </h2>
+<p align="center"> Contributions, issues, and feature requests are always welcome! Please feel free to create issues or submit pull requests following the GitHub Flow. 🚀 </p>
 
-## 💙 Give it a Star, Share with Friends ✌️
-If you like my projects, don't forget to give them a ⭐️ and share them with your friends and colleagues!
+<p align="center"> <h2 align="center"> 💙 Give it a Star, Share with Friends ✌️ </h2>
+<p align="center"> If you like my projects, don't forget to give them a ⭐️ and share them with your friends and colleagues! </p>
 
-## Let's ❤️ Code 😉
-**I'm passionate about coding and building interesting projects. Let's collaborate and create amazing things together!**
+<p align="center"> <h2 align="center"> Let's ❤️ Code 😉 </h2>
+<p align="center"> I'm passionate about coding and building interesting projects. Let's collaborate and create amazing things together! </p>
 
-<img src="https://github.com/elyse502/elyse502/assets/125453474/b3362eeb-ff56-4320-89a7-f1fb80f73a9f" width=1000>
+<div id="header" align="center"> <img src="https://github.com/elyse502/elyse502/assets/125453474/b3362eeb-ff56-4320-89a7-f1fb80f73a9f" width="600"/> </div>
   
 <p align="center">
  <h2 align="center"> ⚡️ Stay Awesome! ⚡️ </h2>
