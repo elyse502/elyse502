@@ -161,7 +161,7 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 
 <br>
 <p align="center"> If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️ </p>
-<p align="center"><a href="https://www.buymeacoffee.com/silvernicks"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/elyseniyibizi" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/elyseniyibizi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/elyseniyibizi" /></a></p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
