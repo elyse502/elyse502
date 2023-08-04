@@ -14,7 +14,7 @@
 ## 📍*Full Stack Software Engineer💻*
 ![Full Stack Software Engineer](https://github.com/elyse502/elyse502/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🆔Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 *My Name is **Elysée NIYIBIZI** from [Rwanda🇷🇼](https://en.wikipedia.org/wiki/Rwanda), I'm a Full-stack Software Engineer Intern [**@alx_africa**](https://www.alxafrica.com/)🏫 and Writer⌨️. **`God`** fearing man🛐⛪️🛐. I love programming, reading, writing and speaking👌. I have skills in `C`, `Java`, as well as elementary `Python` and `Django`🗂️. I am now part of the [`ALX-Holberton Software Engineering Programme`](https://www.alxafrica.com/software-engineering-plus/), and we are set to learn a lot more things. As a Software Engineer🖥️, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world🌍. That's why I like to make things that make a difference💯.* 
 
 ![7_Do-hard-things-100](https://github.com/elyse502/elyse502/assets/125453474/6d58ea70-e504-4fa1-ac6c-14cac7dccd01)
@@ -142,7 +142,7 @@
 </details>
 
 
-## Talking about Personal Stuff 🤠
+## 🆔 Talking about Personal Stuff 🤠
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python [@alx_africa](https://www.alxafrica.com/).
 - 💬 Ask me about anything tech related, I am happy to help;
