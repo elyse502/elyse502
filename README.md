@@ -13,6 +13,7 @@
 
 ## 📍*Full Stack Software Engineer💻*
 ![Full Stack Software Engineer](https://github.com/elyse502/elyse502/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
+
 # 🆔Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼 
 *My Name is **Elysée NIYIBIZI** from [Rwanda🇷🇼](https://en.wikipedia.org/wiki/Rwanda), I'm a Full-stack Software Engineer Intern [**@alx_africa**](https://www.alxafrica.com/)🏫 and Writer⌨️. **`God`** fearing man🛐⛪️🛐. I love programming, reading, writing and speaking👌. I have skills in `C`, `Java`, as well as elementary `Python` and `Django`🗂️. I am now part of the [`ALX-Holberton Software Engineering Programme`](https://www.alxafrica.com/software-engineering-plus/), and we are set to learn a lot more things. As a Software Engineer🖥️, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world🌍. That's why I like to make things that make a difference💯.* 
 
@@ -33,7 +34,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
 
-# Tech stack 💱〽♻☣☢
+## Tech stack 💱〽♻☣☢
 <details> 
   <summary><h2>🛠️ My Favorite Tools 🛠️</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -188,6 +189,12 @@
 |[![Elysee's github stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=dark&hide_title=true)](https://github.com/elyse502)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/elyse502)|![elyse502](https://github-readme-streak-stats.herokuapp.com/?user=elyse502&theme=dark)
 <hr>
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="elyse502's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=elyse502&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count 🔁</b></p>  
@@ -205,6 +212,7 @@
 <p align="center">
  <img src="https://github.com/elyse502/elyse502/assets/125453474/d2d77917-74e7-4e68-98ee-128b8f548035" width=400 height=340>
 </p>
+
 
 # 📊 This week i spent my time on ✨:
 <!--START_SECTION:waka-->
