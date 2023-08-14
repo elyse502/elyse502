@@ -280,5 +280,5 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 <br>
 <p align="center">  Thank you for visiting my profile and supporting my work. Stay awesome and keep coding! 💪 </p>
  
-![Bottom](https://github.com/elyse502/elyse502/assets/125453474/41d84c08-8bad-401c-b489-25775e745cae)
+<img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
