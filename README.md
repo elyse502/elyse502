@@ -253,7 +253,7 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
   </p>
 
 <p align="center">
- <h2 align="center"> 🤝 Support </h2>
+ <h2 align="center"> 🤝 Support 🤝 | 😉 Your Backing, My Gratitude 🙏</h2>
 
 <br>
 <p align="center"> If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️ </p>
