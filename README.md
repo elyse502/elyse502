@@ -188,9 +188,9 @@ _I believe that good design is not just about aesthetics, but also about usabili
 <p align="center">
  <h2 align="center"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'></h2>
 
-| <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My github statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> |My languages 🗣|Streaks 🔥|
-|-|-|-|
-|[![Elysee's github stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=dark&hide_title=true)](https://github.com/elyse502)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/elyse502)|![elyse502](https://github-readme-streak-stats.herokuapp.com/?user=elyse502&theme=dark)
+| <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My github statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> |👨‍💻 My languages ✍️
+|-|-|
+|[![Elysee's github stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=dark&hide_title=true)](https://github.com/elyse502)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/elyse502)
 <hr>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
