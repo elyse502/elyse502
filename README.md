@@ -148,7 +148,7 @@ _I believe that good design is not just about aesthetics, but also about usabili
 
 ## 🆔 Talking about Personal Stuff 🤠
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python [@alx_africa](https://www.alxafrica.com/).
+- 🌱 I’m currently learning  Nodejs [@alx_africa](https://www.alxafrica.com/).
 - 💬 Ask me about anything tech related, I am happy to help;
 - 💻 I love writing code and learn anythings about it👌. 
 - 📫 How to reach me: **elyseniyibizi502@gmail.com** & Phone Number: **+250784652570**.
