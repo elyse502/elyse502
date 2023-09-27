@@ -23,7 +23,7 @@
  .########:.                  .:########.    Text Formatting Skills: TeX / roff
   .############:..      ..:############.     Other Language Skills: TIBasic / Batch
     .###. `³####´        `###########.
-      `###:. `³´          #########`         Languages_spoken: ["en_US", "fre_FRA", "kinya_RW"]
+      `###:. `³´          #########`         Languages_spoken: ["en_US", "fr_FR", "kinya_RW"]
         `³######          ######³´
             `³³´          `³³´           
                                              Technologies: Linux, Docker, Splunk, Graylog, ArcSight
