@@ -1,4 +1,4 @@
-<h1>  <b>😇Hi there 👋, This is Elysée NIYIBIZI👑🇷🇼✌️</b> <picture><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 7%></picture>  <picture><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%></picture> </h1>
+<h1> <picture><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 7%></picture> <b>😇Hi there 👋, This is Elysée NIYIBIZI👑🇷🇼✌️</b> <picture><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%></picture> </h1>
   
 ![My Banner](https://github.com/elyse502/elyse502/assets/125453474/51d554b8-89d4-4e80-9cb2-469a97e46f36)
 
@@ -6,14 +6,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 😊I'm Glad to see you here🤝! :octocat:
+# 😊I'm Glad to see you here🤝! :octocat:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=elyse502.elyse502)      [![Github](https://img.shields.io/github/followers/elyse502?label=Follow&style=social)](https://github.com/elyse502)
 
 ## 📍*Full Stack Software Engineer💻*
 ![Full Stack Software Engineer](https://github.com/elyse502/elyse502/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></picture> <b>Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼</b> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></picture>
 *My Name is **Elysée NIYIBIZI** from [Rwanda🇷🇼](https://en.wikipedia.org/wiki/Rwanda), I'm a Full-stack Software Engineer Intern [**@alx_africa**](https://www.alxafrica.com/)🏫 and Writer⌨️. **`God`** fearing man🛐⛪️🛐. I love programming, reading, writing and speaking👌. I have skills in `C`, `Java`, as well as elementary `Python` and `Django`🗂️. I am now part of the [`ALX-Holberton Software Engineering Programme`](https://www.alxafrica.com/software-engineering-plus/), and we are set to learn a lot more things. As a Software Engineer🖥️, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world🌍. That's why I like to make things that make a difference💯.*
 
 _I believe that good design is not just about aesthetics, but also about usability and accessibility. My goal is to create websites that are not only visually appealing, but also easy to use and accessible to everyone._
@@ -28,7 +28,7 @@ _I believe that good design is not just about aesthetics, but also about usabili
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## Skills and Experience <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%>
+## Skills and Experience <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%></picture>
 * 🔅 React
 * 📱 React Native
 * 💻 HTML, CSS, JC
