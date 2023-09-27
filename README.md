@@ -6,11 +6,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# 😊I'm Glad to see you here🤝! :octocat:
+## :octocat: 😊I'm Glad to see you here🤝! :octocat:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=elyse502.elyse502)      [![Github](https://img.shields.io/github/followers/elyse502?label=Follow&style=social)](https://github.com/elyse502)
 
-## 📍*Full Stack Software Engineer💻*
+# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>*📍Full Stack Software Engineer💻*</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 ![Full Stack Software Engineer](https://github.com/elyse502/elyse502/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
 
 # <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></picture> <b>Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼</b> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></picture>
