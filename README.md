@@ -51,7 +51,7 @@ _I believe that good design is not just about aesthetics, but also about usabili
 
 ![7_Do-hard-things-100](https://github.com/elyse502/elyse502/assets/125453474/6d58ea70-e504-4fa1-ac6c-14cac7dccd01)
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -176,7 +176,7 @@ _I believe that good design is not just about aesthetics, but also about usabili
 
 # 🆔 Talking about Personal Stuff 🤠
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning  **`DevOps`** [@alx_africa](https://www.alxafrica.com/).
+- 🌱 I’m currently learning  [**`DevOps`**](https://aws.amazon.com/devops/what-is-devops/#:~:text=DevOps%20is%20the%20combination%20of,development%20and%20infrastructure%20management%20processes.) [@alx_africa](https://www.alxafrica.com/).
 - 💬 Ask me about anything tech related, I am happy to help;
 - 💻 I love writing code and learn anythings about it👌. 
 - 📫 How to reach me: **elyseniyibizi502@gmail.com** & Phone Number: **+250784652570**.
