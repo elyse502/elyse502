@@ -6,6 +6,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<br />
+<br />
+
+<h3 align="center">📍Pinned Repositories🗃</h3>
+
+| Repository📂 | Description📝 |
+| --- | --- |
+| [ alx-holbertonschool-system_engineering-devops](https://github.com/elyse502/alx-system_engineering-devops) | Linux Permissions, Redirections, Syscalls, Web Servers |
+| [ alx-holbertonschool-low_level_programming](https://github.com/elyse502/alx-low_level_programming) | C programming, Data Structures & Algorithms |
+| [ alx-holbertonschool-higher_level_programming](https://github.com/elyse502/alx-higher_level_programming) | Python, Object-Oriented Programming, MySQL, Web Development (HTML, CSS, JavaScript) |
+
+
+
+<br />
+
 # :octocat: _😊I'm Glad to see you here🤝!_ :octocat:
 ```groovy
 ~ FilsDeDieu
