@@ -77,11 +77,9 @@ _I believe that good design is not just about aesthetics, but also about usabili
 * 📱 React Native
 * 💻 HTML, CSS, JC
 
-<h2 align="left">Languages and Tools 🚀:</h2>
+<h1 align="left">Tech stack - Languages and Tools 🚀:</h1>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-
-# Tech stack 💱〽♻☣☢
 <details> 
   <summary><h3>🛠️ My Favorite Tools 🛠️</h3></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -190,8 +188,10 @@ _I believe that good design is not just about aesthetics, but also about usabili
 
 
 # 🆔 Talking about Personal Stuff 🤠
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning  [**`DevOps`**](https://aws.amazon.com/devops/what-is-devops/#:~:text=DevOps%20is%20the%20combination%20of,development%20and%20infrastructure%20management%20processes.) [@alx_africa](https://www.alxafrica.com/).
+- 🌍  I'm based in Kigali, Rwanda 🔭
+- 🚀  I'm currently working towards being a [Full-stack engineer](https://www.coursera.org/articles/full-stack-developer) [@alx_africa](https://www.alxafrica.com/) 🌱.
+- 🧠  I'm learning as many things as I can about Software Engineering.
+- 🤝  I'm open to collaborating on interesting projects.
 - 💬 Ask me about anything tech related, I am happy to help;
 - 💻 I love writing code and learn anythings about it👌. 
 - 📫 How to reach me: **elyseniyibizi502@gmail.com** & Phone Number: **+250784652570**.
