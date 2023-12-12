@@ -210,6 +210,7 @@ _I believe that good design is not just about aesthetics, but also about usabili
 </p>
 </p>
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elyse502.github.io/My-Portfolio/)
 
 <h3 align="center"> 💻 A Passionate Backend Developer from Rwanda 🇷🇼</h3>
 
