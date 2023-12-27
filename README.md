@@ -9,7 +9,7 @@
 <br />
 <br />
 
-<h3 align="center">📍Pinned Repositories🗃</h3>
+<h3 align="center">📍Pinned Repositories 🗃</h3>
 
 | Repository📂 | Description📝 |
 | --- | --- |
