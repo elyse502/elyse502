@@ -197,8 +197,10 @@ _I believe that good design is not just about aesthetics, but also about usabili
 - 💻 I love writing code and learn anythings about it👌. 
 - 📫 How to reach me: **elyseniyibizi502@gmail.com** & Phone Number: **+250784652570**.
 
-<h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%"> </h2>
-<p align="left">
+---
+
+<h1 align="center">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%"> </h1>
+<p align="center">
   <a href="https://www.discord.com/channels/@niyibizi_elysee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="niyibizi-elysee" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21958900/niyibizi-elys%c3%a9e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21958900" height="30" width="40" /></a>
 <a href="https://twitter.com/niyibizi_elyse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niyibizi_elyse" height="30" width="40" /></a>
@@ -211,7 +213,17 @@ _I believe that good design is not just about aesthetics, but also about usabili
 </p>
 </p>
 
+<div align="center">
+  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elyse502.github.io/My-Portfolio/)
+
+</div>
+
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/niyibizi-elys%C3%A9e/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:contato.elyseniyibizi502@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://wa.me/250784652570"><img  height= "29"src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=250785478696" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <h3 align="center"> 💻 A Passionate Backend Developer from Rwanda 🇷🇼</h3>
 
