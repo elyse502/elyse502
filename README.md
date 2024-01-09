@@ -191,8 +191,9 @@ _I believe that good design is not just about aesthetics, but also about usabili
 - 🌍  I'm based in Kigali, Rwanda 🔭
 - 🚀  I'm currently working towards being a [Full-stack engineer](https://www.coursera.org/articles/full-stack-developer) 🌱.
 - 🧠  I'm learning as many things as I can about Software Engineering [@alx_africa](https://www.alxafrica.com/) .
+- 🌟 I'm a Face of [ALX SE](https://www.facesofalxse.com/).
 - 🤝  I'm open to collaborating on interesting projects.
-- 💬 Ask me about anything tech related, I am happy to help;
+- 💬 Ask me about anything tech related, I am happy to help.
 - 💻 I love writing code and learn anythings about it👌. 
 - 📫 How to reach me: **elyseniyibizi502@gmail.com** & Phone Number: **+250784652570**.
 
