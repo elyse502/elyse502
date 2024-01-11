@@ -70,7 +70,7 @@
 
 *My Name is **Elysée NIYIBIZI**👨‍💼 from [Rwanda🇷🇼](https://en.wikipedia.org/wiki/Rwanda), I'm a Full-stack Software Engineer Intern [**@alx_africa**](https://www.alxafrica.com/)🏫 and Writer⌨️. **`God`** fearing man🛐⛪️🛐. I love programming, reading, writing and speaking👌. I have skills in `C`, `Java`, as well as elementary `Python` and `Django`🗂️. I am now part of the [`ALX-Holberton Software Engineering Programme`](https://www.alxafrica.com/software-engineering-plus/), and we are set to learn a lot more things. As a Software Engineer🖥️, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world🌍. That's why I like to make things that make a difference💯.*
 
-_I believe that good design is not just about aesthetics, but also about usability and accessibility. My goal is to create websites that are not only visually appealing, but also easy to use and accessible to everyone._
+_I believe that good design is not just about aesthetics, but also about usability and accessibility. My goal is to create websites that are not only visually appealing, but also easy to use and accessible to everyone🛫._
 
 *When I'm not coding, you can find me in the game center or exploring new tech company in the [city](https://www.kigalicity.gov.rw/)([Kigali](https://en.wikipedia.org/wiki/Kigali)). I also enjoy reading books and watching documentaries.*
 
