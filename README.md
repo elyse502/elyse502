@@ -1,6 +1,9 @@
+<div align="center">
+  
 # <picture><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 7%></picture> <b>😇Hi there 👋, This is Elysée NIYIBIZI👑🇷🇼✌️</b> <picture><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%></picture>
   
 ![My Banner](https://github.com/elyse502/elyse502/assets/125453474/51d554b8-89d4-4e80-9cb2-469a97e46f36)
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;MEET+A+PROGRAMMER,;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+CODING+AND+WATCHING+FOOTBALL+:%29)](https://git.io/typing-svg)
 
@@ -52,6 +55,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=elyse502.elyse502)      [![Github](https://img.shields.io/github/followers/elyse502?label=Follow&style=social)](https://github.com/elyse502)
 
+<div align="center">
+  
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>*📍Full Stack Software Engineer💻*</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 ![Full Stack Software Engineer](https://github.com/elyse502/elyse502/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
@@ -68,7 +73,7 @@ _I believe that good design is not just about aesthetics, but also about usabili
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
-
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
