@@ -205,7 +205,7 @@ _I believe that good design is not just about aesthetics, but also about usabili
 - 🤝  I'm open to collaborating on interesting projects.
 - 💬 Ask me about anything tech related, I am happy to help.
 - 💻 I love writing code and learn anythings about it👌. 
-- 📫 How to reach me: **elyseniyibizi502@gmail.com** & Phone Number: **+250784652570**.
+- 📫 How to reach me: **elyseniyibizi502@gmail.com** & Phone Number: **+250784652570**☎.
 
 ---
 
