@@ -226,7 +226,7 @@ _I believe that good design is not just about aesthetics, but also about usabili
 
 <div align="center">
   
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elyse502.github.io/My-Portfolio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elyse502.github.io/Elysee-Portfolio/)
 
 </div>
 
