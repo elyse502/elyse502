@@ -12,7 +12,9 @@
 <br />
 <br />
 
-<h3 align="center">📍Pinned Repositories 🗃</h3>
+<div align="center">
+
+### 📍[Pinned Repositories](https://github.com/elyse502/ALX-PROJECTS) 🗃<div>
 
 | Repository📂 | Description📝 |
 | --- | --- |
