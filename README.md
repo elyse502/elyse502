@@ -56,7 +56,7 @@ Feel free to explore and get in touch! 🌐
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=elyse502.elyse502)      [![Github](https://img.shields.io/github/followers/elyse502?label=Follow&style=social)](https://github.com/elyse502)
 
-
+<div align="center">
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>*📍Full Stack Software Engineer💻*</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
@@ -216,7 +216,6 @@ _I believe that good design is not just about aesthetics, but also about usabili
 <a href="https://hashnode.com/@NIYIBIZI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="NIYIBIZI Elysée" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCFak6PPRUK9-AB_-zeDgzkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCFak6PPRUK9-AB_-zeDgzkg" height="30" width="40" /></a>
 <a href="https://medium.com/@elyseniyibizi502" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
 </p>
 
 <div align="center">
