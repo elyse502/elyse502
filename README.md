@@ -7,24 +7,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;MEET+A+PROGRAMMER,;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+CODING+AND+WATCHING+FOOTBALL+:%29)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<br />
-<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
 ### 📍[Pinned Repositories](https://github.com/elyse502/ALX-PROJECTS) 🗃<div>
 
 | Repository📂 | Description📝 |
-| --- | --- |
-| [ alx-holbertonschool-system_engineering-devops](https://github.com/elyse502/alx-system_engineering-devops) | Linux Permissions, Redirections, Syscalls, Web Servers |
-| [ alx-holbertonschool-low_level_programming](https://github.com/elyse502/alx-low_level_programming) | C programming, Data Structures & Algorithms |
-| [ alx-holbertonschool-higher_level_programming](https://github.com/elyse502/alx-higher_level_programming) | Python, Object-Oriented Programming, MySQL, Web Development (HTML, CSS, JavaScript) |
-
-
-
-<br />
+| ------------ | -------------- |
+| [alx-holbertonschool-system_engineering-devops](https://github.com/elyse502/alx-system_engineering-devops) | Linux Permissions, Redirections, Syscalls, Web Servers |
+| [alx-holbertonschool-low_level_programming](https://github.com/elyse502/alx-low_level_programming) | C programming, Data Structures & Algorithms |
+| [alx-holbertonschool-higher_level_programming](https://github.com/elyse502/alx-higher_level_programming) | Python, Object-Oriented Programming, MySQL, Web Development (HTML, CSS, JavaScript) |
 
 <div align="center">
 
@@ -63,9 +56,9 @@ Feel free to explore and get in touch! 🌐
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=elyse502.elyse502)      [![Github](https://img.shields.io/github/followers/elyse502?label=Follow&style=social)](https://github.com/elyse502)
 
-<div align="center">
-  
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>*📍Full Stack Software Engineer💻*</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+
+
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>*📍Full Stack Software Engineer💻*</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 ![Full Stack Software Engineer](https://github.com/elyse502/elyse502/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)
 
@@ -78,12 +71,12 @@ _I believe that good design is not just about aesthetics, but also about usabili
 *When I'm not coding, you can find me in the game center or exploring new tech company in the [city](https://www.kigalicity.gov.rw/)([Kigali](https://en.wikipedia.org/wiki/Kigali)). I also enjoy reading books and watching documentaries.*
 
 ![7_Do-hard-things-100](https://github.com/elyse502/elyse502/assets/125453474/6d58ea70-e504-4fa1-ac6c-14cac7dccd01)
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Tomorrow+will+be+better%2C+;and+if+its+not+;I'll+say+it+again!+" alt="Typing SVG" /></a></p>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # <b>💼 Skills and Experience </b> <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%></picture>
 * 🔅 React
