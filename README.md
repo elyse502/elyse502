@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### 📍[Pinned Repositories](https://github.com/elyse502/ALX-PROJECTS) 🗃</div>
+### 📍 [Pinned Repositories](https://github.com/elyse502/ALX-PROJECTS) 🗃</div>
 
 | Repository📂 | Description📝 |
 | ------------ | -------------- |
