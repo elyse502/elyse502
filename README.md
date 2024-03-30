@@ -33,7 +33,7 @@ Feel free to explore and get in touch! 🌐
             .::############::.               ----------------------
         .:######################:.           OS: Linux, CentOS, Windows
      .:############################:.        Role: Cybersecurity, DevSecOps 
-   .:#####´`³################³´`####:.       Uptime: 1 year +
+   .:#####´`³################³´`####:.       Uptime: 2 years +
   .#######.   `´´        ``´   .#######.     Packages: 54 (github), 23 (aur)
  .########:                    :########.
 .########´                      `########.   Language Skills: Python / Java / C / C++ / Go Lang
