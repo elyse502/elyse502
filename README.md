@@ -1,9 +1,12 @@
 <div align="center">
   
 # <picture><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15%></picture> <b>😇 Hello👋, This is Elysée NIYIBIZI 👨🏿‍💻🇷🇼</b> <picture><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 15%></picture>
+
   
 ![My Banner](https://github.com/elyse502/elyse502/assets/125453474/51d554b8-89d4-4e80-9cb2-469a97e46f36)
 </div>
+
+![ALX-Certificate](https://github.com/elyse502/elyse502/assets/125453474/a170ea11-e4c6-4f54-9eb3-f6882af76501)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;MEET+A+PROGRAMMER,;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+CODING+AND+WATCHING+FOOTBALL+:%29)](https://git.io/typing-svg)
 
