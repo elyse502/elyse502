@@ -6,7 +6,7 @@
 ![My Banner](https://github.com/elyse502/elyse502/assets/125453474/51d554b8-89d4-4e80-9cb2-469a97e46f36)
 </div>
 
-![ALX-Certificate](https://github.com/elyse502/elyse502/assets/125453474/a170ea11-e4c6-4f54-9eb3-f6882af76501)
+![ALX-Certificate](https://github.com/elyse502/elyse502/assets/125453474/b86ef685-7629-41bb-aaff-c1279eecb475)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;MEET+A+PROGRAMMER,;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+CODING+AND+WATCHING+FOOTBALL+:%29)](https://git.io/typing-svg)
 
@@ -369,4 +369,6 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
+
 
