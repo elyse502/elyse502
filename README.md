@@ -2,7 +2,7 @@
   
 # <picture><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15%></picture> <b>😇 Hello👋, This is Elysée NIYIBIZI 👨🏿‍💻🇷🇼</b> <picture><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 15%></picture>
 
-![My Banner](https://github.com/elyse502/elyse502/assets/125453474/51d554b8-89d4-4e80-9cb2-469a97e46f36)
+<!--![My Banner](https://github.com/elyse502/elyse502/assets/125453474/51d554b8-89d4-4e80-9cb2-469a97e46f36)-->
 ![Banner](https://github.com/elyse502/elyse502/assets/125453474/464d11a8-3cc0-4eae-ace5-e7510295b267)
 </div>
 
