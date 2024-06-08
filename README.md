@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;MEET+A+PROGRAMMER,;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+CODING+AND+WATCHING+FOOTBALL+:%29)](https://git.io/typing-svg)
 
-![ALX-Certificate](https://github.com/elyse502/elyse502/assets/125453474/b86ef685-7629-41bb-aaff-c1279eecb475)
+[![ALX-Certificate](https://github.com/elyse502/elyse502/assets/125453474/b86ef685-7629-41bb-aaff-c1279eecb475)](https://intranet.alxswe.com/certificates/NGS28TyRP7)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
