@@ -37,7 +37,7 @@
 <a href="https://fb.com/elyse.jadendrakstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elyse.jadendrakstar" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/7.le_fils_de_dieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7.le_fils_de_dieu" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://hashnode.com/@NIYIBIZI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="NIYIBIZI Elysée" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCFak6PPRUK9-AB_-zeDgzkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCFak6PPRUK9-AB_-zeDgzkg" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCFak6PPRUK9-AB_-zeDgzkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCFak6PPRUK9-AB_-zeDgzkg" height="30" width="40" /></a><br /><br />
 <a href="https://medium.com/@elyseniyibizi502" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
