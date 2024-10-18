@@ -1,6 +1,6 @@
 <div align="center">
   
-<h2> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture> <b>👷Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼</b> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture> </h2>
+<!--<h2> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture> <b>👷Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼</b> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture> </h2>
 <br /><br />
 
 <!--![My Banner](https://github.com/elyse502/elyse502/assets/125453474/51d554b8-89d4-4e80-9cb2-469a97e46f36)-->
