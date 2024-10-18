@@ -1,6 +1,7 @@
 <div align="center">
   
-# <picture><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15%></picture> <b>😇 Hello👋, This is Elysée NIYIBIZI 👨🏿‍💻🇷🇼</b> <picture><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 15%></picture>
+<h2> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture> <b>👷Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼</b> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture> </h2>
+<br /><br />
 
 <!--![My Banner](https://github.com/elyse502/elyse502/assets/125453474/51d554b8-89d4-4e80-9cb2-469a97e46f36)-->
 
@@ -11,7 +12,7 @@
 
 [![ALX-Certificate](https://github.com/elyse502/elyse502/assets/125453474/b86ef685-7629-41bb-aaff-c1279eecb475)](https://intranet.alxswe.com/certificates/NGS28TyRP7)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br /><br /><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br /><br /><br />
 
 <div align="center">
 
@@ -22,6 +23,10 @@
 | [alx-holbertonschool-system_engineering-devops](https://github.com/elyse502/alx-system_engineering-devops) | Linux Permissions, Redirections, Syscalls, Web Servers |
 | [alx-holbertonschool-low_level_programming](https://github.com/elyse502/alx-low_level_programming) | C programming, Data Structures & Algorithms |
 | [alx-holbertonschool-higher_level_programming](https://github.com/elyse502/alx-higher_level_programming) | Python, Object-Oriented Programming, MySQL, Web Development (HTML, CSS, JavaScript) |
+
+<br /><br /><br /><br /><br />
+
+<!--
 
 <div align="center">
 
@@ -66,6 +71,8 @@ Feel free to explore and get in touch! 🌐
 
 <!--![Full Stack Software Engineer](https://github.com/elyse502/elyse502/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)-->
 
+<!--
+
 <div align="center">
   <h3>😎 An Introvert 🤠</h3>
 	<br>
@@ -101,85 +108,85 @@ _I believe that good design is not just about aesthetics, but also about usabili
 
 <!--<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>-->
 
-<h3 align="left">Programming Languages:</h3>
+<!--<h3 align="left">Programming Languages:</h3>
 <P align="left"> 
   <!--   javascript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="70" margin="10"/> </a>
   <!--   typescript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="70" margin="10"/> </a>
   <!--   python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="70" margin="10"/> </a>
   <!--   c programing -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40" width="70" margin="10"/> </a> 
+  <!--<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40" width="70" margin="10"/> </a> 
   
 </P>
 <h3 align="left">Frontend Development:</h3>
 <P align="left">
   <!--   reactjs -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" width="70" margin="10""/> </a>
+  <!--<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" width="70" margin="10""/> </a>
   <!--   redux -->
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40" width="70" margin="10"/> </a> 
+  <!--<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40" width="70" margin="10"/> </a> 
 <!--   sass -->
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40" width="70" margin="10"/> </a>
 <!--   css -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="70" margin="10"/> </a>
 <!--   html -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" width="70" margin="10"/> </a>
   <!--   babel -->
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/babel_plain_logo_icon_146633.png" alt="babel" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/babel_plain_logo_icon_146633.png" alt="babel" height="40" width="70" margin="10"/> </a>
   <!--   webpack -->
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png" alt="webpack" height="40" width="70" margin="10"/> </a> 
+  <!--<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png" alt="webpack" height="40" width="70" margin="10"/> </a> 
 </P>
 
 <h3 align='left'>Backend Development:</h3>
 <p align='left'>
   <!--   nodejs -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" width="70" margin="10"/> </a>
    <!--   flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40" width="70" margin="10"/> </a>
   <!--   nginx -->
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="40" width="70" margin="10"/> </a>
 </p>
 
 <h3 align='left'>Database:</h3>
 <p align='left'>
 <!--   mysql -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" width="70" margin="10"/> </a>
   <!--   sqllite -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40" width="70" margin="10"/> </a>
   <!--   mongodb -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" width="70" margin="10"/> </a>
 <!--   postgre -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40" width="70" margin="10"/> </a></p>
+  <!--<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40" width="70" margin="10"/> </a></p>
 
 <h3 align='left'>Testing:</h3>
 <p align='left'>
 <!--   postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" width="70" margin="10"/> </a>
 <!--   jest -->
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="40" width="70" margin="10"/> </a
+<!--<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="40" width="70" margin="10"/> </a
 </p>
 
 <h3 align="left">Other Tools:</h3>
 <p align="left"> 
 <!--   git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" width="70" margin="10""/> </a>
+  <!--<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" width="70" margin="10""/> </a>
   <!--   github -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="GitHub" height="40" width="50" margin="10"/> </a>
+  <!--<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="GitHub" height="40" width="50" margin="10"/> </a>
 <!--   linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" width="70" margin="10""/> </a>
+  <!--<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" width="70" margin="10""/> </a>
   <!--   photoshop -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  <!--<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <!--   ubuntu -->
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ubuntu_logo_icon_147216.png" alt="ubuntu" height="40" width="50" margin="10""/> </a>
+  <!--<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ubuntu_logo_icon_147216.png" alt="ubuntu" height="40" width="50" margin="10""/> </a>
 <!--   vagrant -->
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" height="40" width="70" margin="10"/> </a>
+  <!--<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" height="40" width="70" margin="10"/> </a>
   <!--   vs code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VsCode" height="40" width="50" margin="10"/> </a>
+  <!--<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VsCode" height="40" width="50" margin="10"/> </a>
    <!--   vim -->
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vim_original_logo_icon_146312.png" alt="Vim editor" height="40" width="50" margin="10"/> </a>
+  <!--<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vim_original_logo_icon_146312.png" alt="Vim editor" height="40" width="50" margin="10"/> </a>
   <!--   npm -->
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" alt="npm" wheight="40" width="50" margin="10""/> </a>
+  <!--<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" alt="npm" wheight="40" width="50" margin="10""/> </a>
 </p><br /><br />
 
 
@@ -188,7 +195,7 @@ _I believe that good design is not just about aesthetics, but also about usabili
   <summary><h3>🛠️ My Favorite Tools 🛠️</h3></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages 🚀</h3>
+  <!--<h3>👨‍💻 Programming and Markup Languages 🚀</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -333,22 +340,22 @@ _I believe that good design is not just about aesthetics, but also about usabili
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/elyse502"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Back-End+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
+  <!--<a href="https://github.com/elyse502"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Back-End+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
 </p>
 
 <!-- START NEW SECTION -->
-<p align="center">
+<!--<p align="center">
 <!--   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />   -->
-  <h2 align="center">🏆 My Github Profile Trophy 🏆</h2>
+  <!--<h2 align="center">🏆 My Github Profile Trophy 🏆</h2>
 </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=elyse502&theme=radical&margin-w=40&margin-h=40)](https://github.com/elyse502) -->
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=elyse502&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/elyse502)
+<!--[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=elyse502&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/elyse502)
 <hr>
  
 <!-- START NEW SECTION -->
-<div align="center">
+<!--<div align="center">
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -376,10 +383,10 @@ _I believe that good design is not just about aesthetics, but also about usabili
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="elyse502's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=elyse502&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="elyse502's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=elyse502&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!-- START NEW SECTION -->
-<div align="center">
+<!--<div align="center">
 <br><p align="centre"><b>Visitors Count 🔁</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{elyse502}/count.svg" /></p> 
 <br></div>
@@ -387,9 +394,9 @@ _I believe that good design is not just about aesthetics, but also about usabili
 
 <p align="center">
 <!-- <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
- <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+ <!--<img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 <!--  <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /> -->
-</p>
+<!--</p>
 <hr>
 
 <p align="center">
@@ -400,7 +407,7 @@ _I believe that good design is not just about aesthetics, but also about usabili
 # 📊 This week I spent my time on ✨:
 <!--START_SECTION:waka-->
 
-```text
+<!--```text
 Python                   10 hrs 35 mins  █████████████░░░░░░░░░░░░   47.94 %
 C Programming Language   08 hrs 07 mins  █████████░░░░░░░░░░░░░░░░   29.98 %
 Bash                     05 hrs 02 mins  ██████░░░░░░░░░░░░░░░░░░░   22.08 %
@@ -410,7 +417,7 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<div align="center">
+<!--<div align="center">
  <br>
  <p align="centre"><b> Joke of the Day 🤗</b></p>
  
@@ -424,7 +431,7 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 
 <!-- START NEW SECTION -->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </p>
@@ -433,7 +440,7 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 <!-- GITHUB ACTIVITY GRAPH -->
 <!-- ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark) -->
 
-  </p>
+  <!--</p>
 
 <p align="center">
  <h2 align="center"> 🤝 Support 🤝 | 😉 Your Backing, My Gratitude 🙏</h2>
