@@ -24,11 +24,20 @@
 | [alx-holbertonschool-low_level_programming](https://github.com/elyse502/alx-low_level_programming) | C programming, Data Structures & Algorithms |
 | [alx-holbertonschool-higher_level_programming](https://github.com/elyse502/alx-higher_level_programming) | Python, Object-Oriented Programming, MySQL, Web Development (HTML, CSS, JavaScript) |
 
-<br /><br />
+<br />
+
+<h3 align="center"> 💻 A Passionate Backend Developer from Rwanda 🇷🇼</h3>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/elyse502"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Back-End+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
+</p>
+
+<br />
 
 ---
 
-<br /><br />
+<br />
 
 <h1 align="center">🔗 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="15%"> </h1>
 <p align="center">
@@ -53,14 +62,7 @@
   <a target="_blank"href="https://www.linkedin.com/in/niyibizi-elys%C3%A9e/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:elyseniyibizi502@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://wa.me/250784652570"><img  height= "29"src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=250785478696" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<h3 align="center"> 💻 A Passionate Backend Developer from Rwanda 🇷🇼</h3>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/elyse502"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Back-End+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
-</p>
+</p><br /><br />
 
 <!--
 
