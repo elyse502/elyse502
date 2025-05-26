@@ -26,11 +26,11 @@
 
 <br />
 
-<h3 align="center"> 💻 A Passionate Backend Developer from Rwanda 🇷🇼</h3>
+<h3 align="center"> 💻 A Passionate Fullstack Developer from Rwanda 🇷🇼</h3>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/elyse502"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Back-End+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
+  <a href="https://github.com/elyse502"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Full-Stack+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
 </p>
 
 <br />
