@@ -5,6 +5,8 @@
 
 <!--![My Banner](https://github.com/elyse502/elyse502/assets/125453474/51d554b8-89d4-4e80-9cb2-469a97e46f36)-->
 
+[![Codewars](https://www.codewars.com/users/Elysee%20NIYIBIZI/badges/small)](https://www.codewars.com/users/Elysee%20NIYIBIZI)
+
 [![Banner](https://github.com/elyse502/elyse502/assets/125453474/464d11a8-3cc0-4eae-ace5-e7510295b267)](https://elyse502.github.io/Elysee-Portfolio/)
 </div>
 
@@ -514,6 +516,9 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
+
+
 
 
 
