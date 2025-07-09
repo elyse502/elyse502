@@ -32,28 +32,32 @@
 <h1><em>💻 SIDE PROJECTS 👷‍♂️🏗️⌨️</em></h1>
 
 <details>
-<summary><a href="./0-simple_web_stack.jpg">0. E-Commerce App 🛒</a></summary><br>
+<summary><a href="./0-simple_web_stack.jpg">0. The Maze Project 🎮</a></summary><br>
+<a href="https://github.com/elyse502/The-Maze-Project-Page"><b>LINK 🔗</b></a>
+<p>This project is a first person 3D maze game. Similar to Wolfenstein or Doom, minus enemies and weapons, although they may be added later. It was made using SDL2 and C. It runs on Mac OS X and Linux/Ubuntu. The game uses the technique raycasting to create the apparent 3D nature of the maze. The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world!</p></p>
+</details>
+
+<details>
+<summary><a href="./0-simple_web_stack.jpg">1. E-Commerce App 🛒</a></summary><br>
 <a href="https://github.com/elyse502/ecommerce-app"><b>LINK 🔗</b></a>
 <p>This E-Commerce App is a full-stack web application that enables users to explore a variety of products, filter them based on specific attributes, and add items to their cart by selecting desired variants like size. Users can place orders by providing delivery addresses and selecting their preferred payment method—either Cash on Delivery (COD) or Online Payment. The application integrates Stripe as the online payment gateway, ensuring secure and seamless transactions.
-
-Additionally, an Admin Dashboard is included, where administrators can manage the store by uploading new products, deleting existing ones, and viewing all products listed in the store.
 </p>
 </details>
 
 <details>
-<summary><a href="./0-simple_web_stack.jpg">1. Wallet Web Application 💷</a></summary><br>
+<summary><a href="./0-simple_web_stack.jpg">2. Wallet Web Application 💷</a></summary><br>
 <a href="https://github.com/elyse502/wallet-app-task-force"><b>LINK 🔗</b></a>
 <p>A comprehensive web application for managing multiple financial accounts, tracking expenses, and monitoring budgets across different payment methods (bank accounts, mobile money, cash, etc.). Built with React.js, Node.js, Express, and MongoDB.</p>
 </details>
 
 <details>
-<summary><a href="./0-simple_web_stack.jpg">2. Simple clean nodeJS API 🛜</a></summary><br>
+<summary><a href="./0-simple_web_stack.jpg">3. Simple clean nodeJS API 🛜</a></summary><br>
 <a href="https://github.com/elyse502/API-SIMPLE-Client"><b>LINK 🔗</b></a>
 <p>A simple clean REST API built with NodeJS, express with a n-tier architecture (organized into layers).</p>
 </details>
 
 <details>
-<summary><a href="./0-simple_web_stack.jpg">3. Cofee Shop Management System ☕</a></summary><br>
+<summary><a href="./0-simple_web_stack.jpg">4. Cofee Shop Management System ☕</a></summary><br>
 <a href="https://github.com/elyse502/coffee-blend"><b>LINK 🔗</b></a>
 <p>Coffee Shop Management System with PHP MySQL Bootstrap PayPal and PDO.</p>
 </details>
@@ -550,6 +554,7 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
 
 
 
