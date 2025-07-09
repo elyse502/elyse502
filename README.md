@@ -38,6 +38,12 @@
 Additionally, an Admin Dashboard is included, where administrators can manage the store by uploading new products, deleting existing ones, and viewing all products listed in the store.
 </p>
 </details>
+
+<details>
+<summary><a href="./0-simple_web_stack.jpg">1. Wallet Web Application 💷</a></summary><br>
+<p>A comprehensive web application for managing multiple financial accounts, tracking expenses, and monitoring budgets across different payment methods (bank accounts, mobile money, cash, etc.). Built with React.js, Node.js, Express, and MongoDB.</p>
+</details>
+
 </div>
 
 <br /><hr /><br />
@@ -530,7 +536,6 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
-
 
 
 
