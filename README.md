@@ -52,6 +52,11 @@ Additionally, an Admin Dashboard is included, where administrators can manage th
 <p>A simple clean REST API built with NodeJS, express with a n-tier architecture (organized into layers).</p>
 </details>
 
+<details>
+<summary><a href="./0-simple_web_stack.jpg">3. Cofee Shop Management System ☕</a></summary><br>
+<a href="https://github.com/elyse502/coffee-blend"><b>LINK 🔗</b></a>
+<p>Coffee Shop Management System with PHP MySQL Bootstrap PayPal and PDO.</p>
+</details>
 
 </div>
 
