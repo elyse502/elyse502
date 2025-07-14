@@ -32,6 +32,9 @@
 <h1><em>💻 SIDE PROJECTS 👷‍♂️🏗️⌨️</em></h1>
 
 <details>
+<summary><b>Click to show projects 👇</b></summary><br />
+	
+<details>
 <summary><a href="https://github.com/elyse502/The-Maze-Project-Page">0. The Maze Project 🎮</a></summary><br>
 <a href="https://github.com/elyse502/The-Maze-Project-Page"><b>LINK 🔗</b></a>
 <p>This project is a first person 3D maze game. Similar to Wolfenstein or Doom, minus enemies and weapons, although they may be added later. It was made using SDL2 and C. It runs on Mac OS X and Linux/Ubuntu. The game uses the technique raycasting to create the apparent 3D nature of the maze. The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world!</p></p>
@@ -51,7 +54,7 @@
 </details>
 
 <details>
-<summary><a href="https://github.com/elyse502/API-SIMPLE-Client">3. Simple clean nodeJS API 🛜</a></summary><br>
+<summary><a href="https://github.com/elyse502/API-SIMPLE-Client">3. Simple clean nodeJS API 🖥️</a></summary><br>
 <a href="https://github.com/elyse502/API-SIMPLE-Client"><b>LINK 🔗</b></a>
 <p>A simple clean REST API built with NodeJS, express with a n-tier architecture (organized into layers).</p>
 </details>
@@ -60,6 +63,8 @@
 <summary><a href="https://github.com/elyse502/coffee-blend">4. Cofee Shop Management System ☕</a></summary><br>
 <a href="https://github.com/elyse502/coffee-blend"><b>LINK 🔗</b></a>
 <p>Coffee Shop Management System with PHP MySQL Bootstrap PayPal and PDO.</p>
+</details>
+
 </details>
 
 </div>
