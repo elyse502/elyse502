@@ -29,7 +29,7 @@
 <br /><hr /><br />
 
 <div align="center">
-<h1><em>💻 SIDE PROJECTS 👷‍♂️🏗️⌨️</em></h1>
+<h1><em>💻 SIDE PROJECTS ⌨️</em></h1>
 
 <details>
 <summary><b>Click to show projects 👇</b></summary><br />
