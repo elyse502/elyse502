@@ -7,6 +7,8 @@
 
 [![Codewars](https://www.codewars.com/users/Elysee%20NIYIBIZI/badges/small)](https://www.codewars.com/users/Elysee%20NIYIBIZI)
 
+# _Software Engineering Enthusiast_
+
 [![Banner](https://github.com/elyse502/elyse502/assets/125453474/464d11a8-3cc0-4eae-ace5-e7510295b267)](https://elyse502.github.io/Elysee-Portfolio/)
 </div>
 
