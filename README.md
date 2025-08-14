@@ -37,7 +37,7 @@
 <summary><b>Click to show projects 👇</b></summary><br />
 	
 <details>
-<summary><a href="https://github.com/elyse502/lms">0. LMS 📤 </a></summary><br>
+<summary><a href="https://github.com/elyse502/lms">0. LMS 🔰 </a></summary><br>
 <a href="https://github.com/elyse502/lms"><b>LINK 🔗</b></a>
 <p>A modern, full-stack e-learning platform built with the MERN stack</p>
 </details>
