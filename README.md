@@ -108,6 +108,50 @@
 
 ---
 
+<!-- START NEW SECTION -->
+<p align="center">
+<img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">🏆 My Github Profile Trophy 🏆</h2>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=elyse502&theme=radical&margin-w=40&margin-h=40)](https://github.com/elyse502)
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=elyse502&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/elyse502)
+<hr>
+ 
+<!-- START NEW SECTION -->
+<div align="center">
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+  
+<p align="center">
+ <h2 align="center"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'></h2>
+
+| <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> MY GITHUB STATISTICS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> |:octocat: My Languages :octocat:
+|----|----|
+|[![Elysee's github stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=dark&hide_title=false)](https://github.com/elyse502)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&show_icons=true&theme=dark&layout=compact&hide_title=false)](https://github.com/elyse502)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyse502&theme=dark" alt="elyse502" margin="10"/></p>
+
+<hr>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="elyse502's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=elyse502&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+---
+
 <br />
 
 <h1 align="center">🔗 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="15%"> </h1>
@@ -134,7 +178,16 @@
   <a target="_blank"href="https://www.linkedin.com/in/niyibizi-elys%C3%A9e/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:elyseniyibizi502@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://wa.me/250784652570"><img  height= "29"src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=250785478696" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p><br /><br />
+</p>
+
+<br /><hr /><br />
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+<img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+</p>
+<br />
 
 <!--
 
@@ -585,6 +638,8 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
+
 
 
 
