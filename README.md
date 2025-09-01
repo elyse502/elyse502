@@ -114,10 +114,19 @@
   <h2 align="center">🏆 My Github Profile Trophy 🏆</h2>
 </p>
 
+<div align="center">
+	
+<details>
+<summary><b>Click to show Trophies 🎖️🏆🏅</b></summary><br />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=elyse502&theme=radical&margin-w=40&margin-h=40)](https://github.com/elyse502)
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=elyse502&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/elyse502)
-<hr>
+</details>
+
+</div>
+
+<br /><hr><br />
  
 <!-- START NEW SECTION -->
 <div align="center">
@@ -638,6 +647,7 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
 
 
 
