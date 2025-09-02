@@ -10,6 +10,12 @@
 # _Software Engineering Enthusiast_
 
 [![Banner](https://github.com/elyse502/elyse502/assets/125453474/464d11a8-3cc0-4eae-ace5-e7510295b267)](https://elyse502.github.io/Elysee-Portfolio/)
+
+![](https://komarev.com/ghpvc/?username=elyse502&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/elyse502" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/elyse502?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/Niyibizi_Elyse" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
+/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elyse502.github.io/Elysee-Portfolio/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250784652570)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;MEET+A+PROGRAMMER,;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING;I+ENJOY+CODING+AND+WATCHING+FOOTBALL+:%29)](https://git.io/typing-svg)
@@ -647,7 +653,6 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
-
 
 
 
