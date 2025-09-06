@@ -226,13 +226,12 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
  
  
 <details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke 🤪</p></details>
-<br>
 </div>
 
-<br /><hr /><br />
+<hr />
 
 <br>
-<p align="center"> If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️ </p>
+<p align="center"> <h2 align="center"> ⚡️ Stay Awesome! ⚡️ </h2> <br /> If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️ </p>
 <p align="center"><a href="https://www.buymeacoffee.com/elyseniyibizi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/elyseniyibizi" /></a></p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
@@ -688,6 +687,7 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
 
 
 
