@@ -37,7 +37,7 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
 <br /><hr /><br />
 
 <div align="center">
-<h1><em>💻 SIDE PROJECTS ⌨️</em></h1>
+<h1><em>💻 SIDE PROJECTS <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture></em></h1>
 
 <details>
 <summary><b>Click to show projects 👇</b></summary><br />
@@ -99,6 +99,8 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
 
 </details>
 
+<picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 10%></picture>
+
 </div>
 
 <br /><hr /><br />
@@ -110,7 +112,11 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
   <a href="https://github.com/elyse502"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=24&pause=1000&center=true&vCenter=true&width=320&lines=Full-Stack+Developer;Computer+Science+Student+!;Always+learning+new+things!+" alt="Typing SVG" /></a>
 </p>
 
-<br />
+<div align="center">
+	<img src="https://raw.githubusercontent.com/knowbee/hosting/master/assets/intore.gif" width="auto" height="100">
+	<br>
+  <br>
+</div>
 
 ---
 
@@ -129,6 +135,8 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=elyse502&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/elyse502)
 </details>
+
+<picture><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15%></picture>
 
 </div>
 
@@ -195,14 +203,41 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
   <a target="_blank"href="https://wa.me/250784652570"><img  height= "29"src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=250785478696" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br /><hr /><br />
+<br /><hr />
 
-<p align="center">
+<!--<p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
-<br />
+<br /><br /><br />-->
+
+<p align="center">
+ <img src="https://github.com/elyse502/elyse502/assets/125453474/d2d77917-74e7-4e68-98ee-128b8f548035" width=400 height=340>
+</p>
+
+<hr /><br />
+
+<div align="center">
+ <p align="centre"><b> 🤡 Joke of the Day 🤗</b></p>
+ 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ 
+<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke 🤪</p></details>
+<br>
+</div>
+
+<br /><hr /><br />
+
+<br>
+<p align="center"> If you find my projects helpful or interesting, you can support me by buying me a coffee! ☕️ </p>
+<p align="center"><a href="https://www.buymeacoffee.com/elyseniyibizi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/elyseniyibizi" /></a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
+<br>
 
 <!--
 
