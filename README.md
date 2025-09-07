@@ -37,7 +37,7 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
 <br /><hr /><br />
 
 <div align="center">
-<h1><em>💻 SIDE PROJECTS <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture></em></h1>
+<h1><em>💻SIDE PROJECTS<picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture></em></h1>
 
 <details>
 <summary><b>Click to show projects 👇</b></summary><br />
