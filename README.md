@@ -169,6 +169,9 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
 <p align="center">
  <h2 align="center"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'></h2>
 
+<details>
+<summary><b>Click to view <i>My Stats</i>📊</b></summary><br />
+
 | <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> MY GITHUB STATISTICS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> |:octocat: My Languages :octocat:
 |----|----|
 |[![Elysee's github stats](https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=dark&hide_title=false)](https://github.com/elyse502)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&show_icons=true&theme=dark&layout=compact&hide_title=false)](https://github.com/elyse502)
@@ -182,6 +185,8 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="elyse502's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=elyse502&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+</details>
 
 ---
 
