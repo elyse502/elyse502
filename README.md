@@ -134,6 +134,8 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
 
 ---
 
+<h4 align="center">"Code is like humor. When you have to explain it, it’s bad☹️." – Cory House</h4>
+
 <!-- START NEW SECTION -->
 <p align="center">
 <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
@@ -704,8 +706,6 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
-
-
 
 
 
