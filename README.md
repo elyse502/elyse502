@@ -8,6 +8,7 @@
 [![Codewars](https://www.codewars.com/users/Elysee%20NIYIBIZI/badges/small)](https://www.codewars.com/users/Elysee%20NIYIBIZI)
 
 # _Software Engineering Enthusiast_
+JavaScript runs in my veins 🩸. MERN is my playground 🤖.
 
 [![committers.top badge](https://user-badge.committers.top/rwanda_private/elyse502.svg)](https://user-badge.committers.top/rwanda_private/elyse502?cache=abcde)
 
@@ -26,9 +27,12 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
 
 [![ALX-Certificate](https://github.com/elyse502/elyse502/assets/125453474/b86ef685-7629-41bb-aaff-c1279eecb475)](https://intranet.alxswe.com/certificates/NGS28TyRP7)
 
+
 <br /><br /><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br /><br /><br />
 
 <div align="center">
+
+# _Turning caffeine into full-stack code ☕💻 (MERN dev)_
 
 ### 📍 [Pinned Repositories](https://github.com/elyse502/ALX-PROJECTS) 🗃</div>
 
@@ -700,6 +704,7 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
 
 
 
