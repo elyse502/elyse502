@@ -32,7 +32,7 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
 
 <div align="center">
 
-# _Turning caffeine into full-stack code ☕💻 (MERN dev)_
+## _Turning caffeine into full-stack code ☕💻 (MERN dev)_
 
 ### 📍 [Pinned Repositories](https://github.com/elyse502/ALX-PROJECTS) 🗃</div>
 
