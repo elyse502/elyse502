@@ -53,7 +53,7 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
 <details>
 <summary><a href="https://github.com/elyse502/resume-builder">0. RESUME BUILDER 📜 </a></summary><br>
 <a href="https://github.com/elyse502/resume-builder"><b>LINK 🔗</b></a>
-<p>A revolutionary blogging platform that combines traditional content management with artificial intelligence.</p>
+<p>A sophisticated, AI-powered web application designed to revolutionize resume creation.</p>
 </details>
 
 <details>
