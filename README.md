@@ -1,4 +1,150 @@
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=00E8FF&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%9A%80+Aspiring+Backend+Engineer;%F0%9F%92%BB+MERN+Heavy+%7C+Real‑time+Focus;%F0%9F%93%9A+Node.js+%2B+Express+%2B+Socket.IO;%E2%9A%A1+NestJS+is+Next)](https://git.io/typing-svg)
+
+<br />
+
+```diff
++ 🔥 CURRENTLY DEEP IN THE BACKEND REALM 🔥
+-   REST APIs · WebSockets · Scalable Architecture
+```
+
+<!-- GLOWING BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=2c2c3a" />
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND--HEAVY-4ecdc4?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2c2c3a" />
+  <img src="https://img.shields.io/badge/NEXT-NEST.JS-fc5c65?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=2c2c3a" />
+  <img src="https://img.shields.io/badge/REALTIME-SOCKET.IO-1abc9c?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=2c2c3a" />
+</p>
+
+<br />
+
+---
+
+## 🧠 ⚡ Tech Stack - Currently Into
+
+```typescript
+interface BackendArmory {
+  core: ["Node.js", "Express.js", "Socket.IO"];
+  database: ["MongoDB", "Mongoose", "Aggregation Pipelines"];
+  realtime: ["WebSockets", "Rooms", "Broadcast", "Acknowledgements"];
+  auth: ["JWT", "Bcrypt", "OAuth2"];
+  devTools: ["Git", "Postman", "Dotenv", "Nodemon", "Thunder Client"];
+  exploring: ["Redis", "Bull Queues", "Docker", "NestJS"];
+  mantra: "Backend-first · Real-time ready · Scalable by design";
+}
+
+const elyse = new BackendArmory();
+```
+
+<br />
+
+---
+
+## 🔧 Toolbelt - Visualized
+
+| Category       | Tech Stack (with attitude 🎯)                                                                 |
+|----------------|-----------------------------------------------------------------------------------------------|
+| **Server**     | `Node.js` `Express` `Socket.IO` `REST` `WebSockets`                                           |
+| **Database**   | `MongoDB` `Mongoose` `Aggregation` `Indexing` `Embedded Docs`                                 |
+| **Auth**       | `JWT` `Bcrypt` `OAuth2 (GitHub/Google)` `Session Mgmt`                                        |
+| **Realtime**   | `Socket.IO rooms` `broadcast` `ack` `typing indicators` `live cursors`                        |
+| **Tooling**    | `Git` `Postman` `Thunder Client` `dotenv` `nodemon` `ESLint`                                  |
+| **Exploring**  | `Redis` (caching/sessions) `Bull Queues` `Docker` `NestJS` `GraphQL (soon)`                   |
+
+<br />
+
+---
+
+## 🧱 Live Fire - What I'm Building Right Now
+
+<table align="center">
+  <tr>
+    <td>🎨</td>
+    <td><strong>Real‑time Collaborative Whiteboard</strong><br />Canvas API + Socket.IO rooms + cursor tracking</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td><strong>Full‑featured Live Chat</strong><br />Typing indicators, read receipts, online status, message reactions</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td><strong>Express Middleware Suite</strong><br />Rate limiting, custom logger, global error handler, request validator</td>
+  </tr>
+  <tr>
+    <td>🗄️</td>
+    <td><strong>MongoDB Schema for Scale</strong><br />Hybrid referencing, time-series patterns, shard-ready designs</td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+## 📌 What's Next on the Radar
+
+```bash
+# Leveling up from Express freedom to NestJS structure
+npm install -g @nestjs/cli
+nest new realtime-beast
+```
+
+> 🧠 **Why NestJS?**  
+> *Dependency injection, modular architecture, and first‑class WebSocket support — it's the logical evolution after mastering Express.*
+
+<br />
+
+---
+
+## 📫 Let's Connect & Build Something Real
+
+<p align="center">
+  <a href="https://github.com/elyse502">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  &nbsp;
+  <a href="mailto:elyseniyibizi502@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/niyibizi-elysée">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004466" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Niyibizi_Elyse">
+    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://elyseedev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-elyseedev.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A" />
+  </a>
+</p>
+
+<br />
+
+---
+
+<!-- VISITOR COUNT + FUN SECTION -->
+<img src="https://komarev.com/ghpvc/?username=elyse502&style=flat-square&color=00E8FF&label=PROFILE+VIEWS" />
+
+```python
+# Backend philosophy
+if __name__ == "__main__":
+    print("APIs are contracts. Real-time is presence. Scale is non-negotiable.")
+```
+
+> *“Backend isn’t just APIs — it’s the nervous system of every app.”*  
+> — ElyseeDev, building one socket at a time 🧠⚡
+
+<br />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br /><br />
+
+<div align="center">
   
 <!--<h2> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture> <b>👷Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼</b> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture> </h2>
 <br /><br />
