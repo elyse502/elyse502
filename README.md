@@ -4,6 +4,11 @@
 
 <br/>
 
+```diff
++ 🔥 CURRENTLY DEEP IN THE BACKEND REALM 🔥
+-   REST APIs · WebSockets · Scalable Architecture · ETL
+```
+
 <p>
   <img src="https://img.shields.io/badge/Backend%20Engineering-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" />
