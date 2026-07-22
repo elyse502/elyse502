@@ -1,142 +1,368 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=00E8FF&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%9A%80+Aspiring+Backend+Engineer;%F0%9F%92%BB+MERN+Heavy+%7C+Real‑time+Focus;%F0%9F%93%9A+Node.js+%2B+Express+%2B+Socket.IO;%E2%9A%A1+NestJS+is+Next)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=600&color=00E8FF&center=true&vCenter=true&width=1000&height=70&lines=🚀+Backend-Focused+Software+Engineer;💻+MERN+•+PERN+•+Python;⚙️+Backend+•+Data+Engineering+•+ETL;☁️+Building+Scalable+Software+Systems)](https://git.io/typing-svg)
 
-<br />
+<br/>
 
-```diff
-+ 🔥 CURRENTLY DEEP IN THE BACKEND REALM 🔥
--   REST APIs · WebSockets · Scalable Architecture
-```
-
-<!-- GLOWING BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=2c2c3a" />
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND--HEAVY-4ecdc4?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2c2c3a" />
-  <img src="https://img.shields.io/badge/NEXT-NEST.JS-fc5c65?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=2c2c3a" />
-  <img src="https://img.shields.io/badge/REALTIME-SOCKET.IO-1abc9c?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=2c2c3a" />
+  <img src="https://img.shields.io/badge/Backend%20Engineering-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Distributed%20Systems-0A66C2?style=for-the-badge" />
 </p>
 
-<br />
+[![Portfolio](https://img.shields.io/badge/Portfolio-elyseedev.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elyseedev.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-elyse502-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyse502)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niyibizi_Elysée-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niyibizi-elysée)
+[![Email](https://img.shields.io/badge/Email-elyseniyibizi502@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elyseniyibizi502@gmail.com)
+[![X](https://img.shields.io/badge/X-Niyibizi_Elyse-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Niyibizi_Elyse)
+
+</div>
 
 ---
 
-## 🧠 ⚡ Tech Stack - Currently Into
+## 📋 Table of Contents
+
+- [👋 About Me](#-about-me)
+- [🛠️ Core Technologies](#️-core-technologies)
+- [💻 Technology Stack](#-technology-stack)
+- [📊 GitHub Analytics](#-github-analytics)
+- [🚀 Current Focus](#-current-focus)
+- [📂 Featured Projects](#-featured-projects)
+- [📖 Currently Learning](#-currently-learning)
+- [🏆 Achievements & Contributions](#-achievements--contributions)
+- [📫 Connect With Me](#-connect-with-me)
+- [💡 Engineering Philosophy](#-engineering-philosophy)
+
+---
+
+## 👋 About Me
+
+### **Elysée NIYIBIZI**
+*Backend-Focused Software Engineer*
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&color=00E8FF&center=true&vCenter=true&width=600&height=30&lines=Designing+Reliable+%26+Scalable+Systems;Building+Production-Ready+Applications;Solving+Real-World+Problems)](https://git.io/typing-svg)
+
+</div>
+
+I'm a **backend-focused Software Engineer** passionate about designing reliable, scalable, and maintainable software systems. My expertise spans backend engineering, data engineering, distributed systems, and cloud technologies.
+
+### 🎯 What Drives Me
+
+| Focus Area | Description |
+|------------|-------------|
+| **Backend Engineering** | Building production-ready web applications with Node.js, Express, and TypeScript |
+| **Data Engineering** | Designing ETL pipelines, data validation, and transformation workflows |
+| **System Architecture** | Creating scalable, maintainable, and well-documented systems |
+| **Cloud Technologies** | Leveraging Docker, Linux, and distributed systems for modern applications |
+
+---
+
+## 🛠️ Core Technologies
 
 ```typescript
-interface BackendArmory {
-  core: ["Node.js", "Express.js", "Socket.IO"];
-  database: ["MongoDB", "Mongoose", "Aggregation Pipelines"];
-  realtime: ["WebSockets", "Rooms", "Broadcast", "Acknowledgements"];
-  auth: ["JWT", "Bcrypt", "OAuth2"];
-  devTools: ["Git", "Postman", "Dotenv", "Nodemon", "Thunder Client"];
-  exploring: ["Redis", "Bull Queues", "Docker", "NestJS"];
-  mantra: "Backend-first · Real-time ready · Scalable by design";
+interface SoftwareEngineer {
+  backend: [
+    "Node.js",
+    "Express.js",
+    "TypeScript",
+    "Python",
+    "REST APIs"
+  ];
+
+  frontend: [
+    "React",
+    "Tailwind CSS"
+  ];
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "Mongoose"
+  ];
+
+  dataEngineering: [
+    "ETL Pipelines",
+    "SQL",
+    "Data Validation",
+    "Data Transformation"
+  ];
+
+  cloud: [
+    "Docker",
+    "Linux",
+    "Distributed Systems"
+  ];
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Postman",
+    "VS Code",
+    "Thunder Client"
+  ];
+
+  currentlyLearning: [
+    "Apache Airflow",
+    "Redis",
+    "NestJS"
+  ];
 }
-
-const elyse = new BackendArmory();
 ```
 
-<br />
+---
+
+## 💻 Technology Stack
+
+<div align="center">
+
+### Backend Development
+
+| Technology | Badge |
+|------------|-------|
+| **Node.js** | ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white) |
+| **Express.js** | ![Express](https://img.shields.io/badge/Express.js-4.x-000000?logo=express&logoColor=white) |
+| **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white) |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) |
+
+### Frontend Development
+
+| Technology | Badge |
+|------------|-------|
+| **React** | ![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=black) |
+| **Tailwind CSS** | ![Tailwind](https://img.shields.io/badge/Tailwind-3.x-38B2AC?logo=tailwind-css&logoColor=white) |
+
+### Databases
+
+| Technology | Badge |
+|------------|-------|
+| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white) |
+| **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-8.x-47A248?logo=mongodb&logoColor=white) |
+| **Mongoose** | ![Mongoose](https://img.shields.io/badge/Mongoose-8.x-880000?logo=mongoose&logoColor=white) |
+
+### Data Engineering
+
+| Technology | Badge |
+|------------|-------|
+| **ETL Pipelines** | ![ETL](https://img.shields.io/badge/ETL-Pipelines-FF6B6B?logo=python&logoColor=white) |
+| **SQL** | ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?logo=postgresql&logoColor=white) |
+
+### Cloud & DevOps
+
+| Technology | Badge |
+|------------|-------|
+| **Docker** | ![Docker](https://img.shields.io/badge/Docker-24.x-2496ED?logo=docker&logoColor=white) |
+| **Linux** | ![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?logo=linux&logoColor=black) |
+| **Git** | ![Git](https://img.shields.io/badge/Git-2.x-F05032?logo=git&logoColor=white) |
+
+</div>
 
 ---
 
-## 🔧 Toolbelt - Visualized
+## 📊 GitHub Analytics
 
-| Category       | Tech Stack (with attitude 🎯)                                                                 |
-|----------------|-----------------------------------------------------------------------------------------------|
-| **Server**     | `Node.js` `Express` `Socket.IO` `REST` `WebSockets`                                           |
-| **Database**   | `MongoDB` `Mongoose` `Aggregation` `Indexing` `Embedded Docs`                                 |
-| **Auth**       | `JWT` `Bcrypt` `OAuth2 (GitHub/Google)` `Session Mgmt`                                        |
-| **Realtime**   | `Socket.IO rooms` `broadcast` `ack` `typing indicators` `live cursors`                        |
-| **Tooling**    | `Git` `Postman` `Thunder Client` `dotenv` `nodemon` `ESLint`                                  |
-| **Exploring**  | `Redis` (caching/sessions) `Bull Queues` `Docker` `NestJS` `GraphQL (soon)`                   |
+<div align="center">
 
-<br />
-
----
-
-## 🧱 Live Fire - What I'm Building Right Now
-
-<table align="center">
-  <tr>
-    <td>🎨</td>
-    <td><strong>Real‑time Collaborative Whiteboard</strong><br />Canvas API + Socket.IO rooms + cursor tracking</td>
-  </tr>
-  <tr>
-    <td>💬</td>
-    <td><strong>Full‑featured Live Chat</strong><br />Typing indicators, read receipts, online status, message reactions</td>
-  </tr>
-  <tr>
-    <td>⚙️</td>
-    <td><strong>Express Middleware Suite</strong><br />Rate limiting, custom logger, global error handler, request validator</td>
-  </tr>
-  <tr>
-    <td>🗄️</td>
-    <td><strong>MongoDB Schema for Scale</strong><br />Hybrid referencing, time-series patterns, shard-ready designs</td>
-  </tr>
-</table>
-
-<br />
-
----
-
-## 📌 What's Next on the Radar
-
-```bash
-# Leveling up from Express freedom to NestJS structure
-npm install -g @nestjs/cli
-nest new realtime-beast
-```
-
-> 🧠 **Why NestJS?**  
-> *Dependency injection, modular architecture, and first‑class WebSocket support — it's the logical evolution after mastering Express.*
-
-<br />
-
----
-
-## 📫 Let's Connect & Build Something Real
+<!--
+### 📈 Contribution Statistics
 
 <p align="center">
-  <a href="https://github.com/elyse502">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
-  </a>
-  &nbsp;
-  <a href="mailto:elyseniyibizi502@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/niyibizi-elysée">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004466" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/Niyibizi_Elyse">
-    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://elyseedev.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-elyseedev.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elyse502&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyse502&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E8FF&text_color=FFFFFF"/>
 </p>
 
-<br />
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elyse502&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
+</p>
+-->
+
+### 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elyse502&theme=react-dark&bg_color=0D1117&color=00E8FF&line=00E8FF&point=FFFFFF&hide_border=true" width="100%" />
+</p>
+
+</div>
 
 ---
 
-<!-- VISITOR COUNT + FUN SECTION -->
-<img src="https://komarev.com/ghpvc/?username=elyse502&style=flat-square&color=00E8FF&label=PROFILE+VIEWS" />
+## 🚀 Current Focus
+
+### 🔭 What I'm Working On
+
+| Area | Focus |
+|------|-------|
+| **Backend Architecture** | Building robust, production-ready systems |
+| **Data Engineering** | Creating efficient ETL pipelines |
+| **Database Design** | PostgreSQL schema optimization |
+| **Cloud Development** | Containerization and distributed systems |
+
+### 🎯 2026 Goals
+
+- [ ] Master **Apache Airflow** for workflow orchestration
+- [ ] Deepen **Redis** knowledge for caching
+- [ ] Build expertise in **NestJS** framework
+- [ ] Contribute to **open-source** projects
+- [ ] Advance cloud engineering skills
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Digital Savings Management System with Fraud Detection
+
+> **Tech Stack:** MERN • MongoDB • Express.js • React • Node.js • TypeScript
+
+A comprehensive platform that digitizes informal savings groups by managing:
+- ✅ Member management and contributions
+- ✅ Loan processing and tracking
+- ✅ Rule-based fraud detection algorithms
+- ✅ Statistical anomaly detection
+
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00E8FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
+
+---
+
+### ⚙️ Healthcare ETL Pipeline
+
+> **Tech Stack:** Python • PostgreSQL • Pandas • SQLAlchemy
+
+A modular ETL pipeline that:
+- ✅ Extracts healthcare datasets from multiple sources
+- ✅ Transforms and validates data
+- ✅ Performs automated data quality checks
+- ✅ Loads into PostgreSQL with proper schemas
+
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+---
+
+### 🚗 Car Sharing Platform
+
+> **Tech Stack:** React • TypeScript • Node.js • Express • PostgreSQL
+
+A full-stack vehicle booking platform featuring:
+- ✅ JWT authentication and authorization
+- ✅ Real-time booking management
+- ✅ Vehicle availability tracking
+- ✅ Role-based access control
+
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+---
+
+## 📖 Currently Learning
+
+| Technology | Focus Area | Progress |
+|------------|------------|----------|
+| **Apache Airflow** | Workflow orchestration | 🟡 In Progress |
+| **Redis** | Caching & real-time data | 🟡 In Progress |
+| **NestJS** | Enterprise Node.js framework | 🟡 In Progress |
+| **Docker** | Containerization & orchestration | 🟢 Advanced |
+| **Distributed Systems** | Scalable architecture | 🟡 In Progress |
+| **Cloud Engineering** | AWS/Azure fundamentals | 🟢 Advanced |
+
+---
+
+## 🏆 Achievements & Contributions
+
+### Professional Milestones
+
+| Achievement | Year | Description |
+|-------------|------|-------------|
+| **Full Stack Certification** | 2025 | The Gym Rwanda Software Engineering Program |
+| **Data Engineering Projects** | 2025 | Designed and implemented ETL pipelines |
+| **Backend Systems** | 2024-2025 | Built multiple production-ready applications |
+
+### Open Source Contributions
+
+- Active contributor to backend-focused open-source projects
+- Documentation improvements and bug fixes
+- Community engagement and knowledge sharing
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+| Platform | Link | Badge |
+|----------|------|-------|
+| **Portfolio** | [elyseedev.netlify.app](https://elyseedev.netlify.app) | ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| **GitHub** | [github.com/elyse502](https://github.com/elyse502) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **LinkedIn** | [linkedin.com/in/niyibizi-elysée](https://linkedin.com/in/niyibizi-elysée) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) |
+| **Email** | [elyseniyibizi502@gmail.com](mailto:elyseniyibizi502@gmail.com) | ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) |
+| **X (Twitter)** | [@Niyibizi_Elyse](https://x.com/Niyibizi_Elyse) | ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) |
+
+</div>
+
+---
+
+## 💡 Engineering Philosophy
 
 ```python
-# Backend philosophy
-if __name__ == "__main__":
-    print("APIs are contracts. Real-time is presence. Scale is non-negotiable.")
+class SoftwareEngineer:
+    def philosophy(self):
+        return (
+            "Build reliable systems. "
+            "Write maintainable code. "
+            "Keep learning."
+        )
+    
+    def approach(self):
+        return (
+            "Clean Architecture • "
+            "Separation of Concerns • "
+            "Test-Driven Development • "
+            "Continuous Learning"
+        )
+    
+    def values(self):
+        return [
+            "Quality over Quantity",
+            "Documentation as First-Class Citizen",
+            "Scalability by Design",
+            "Security by Default"
+        ]
 ```
 
-> *“Backend isn’t just APIs — it’s the nervous system of every app.”*  
-> — ElyseeDev, building one socket at a time 🧠⚡
+### 📜 My Principles
 
-<br />
+| Principle | Description |
+|-----------|-------------|
+| **Clean Architecture** | Building maintainable, testable systems |
+| **Separation of Concerns** | Keeping responsibilities clearly divided |
+| **Continuous Learning** | Staying current with modern technologies |
+| **Quality First** | Delivering reliable, well-documented code |
+
+---
+
+## 📊 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elyse502&style=for-the-badge&color=00E8FF&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/elyse502?label=Followers&style=for-the-badge&color=00E8FF" />
+  <img src="https://img.shields.io/github/stars/elyse502?label=Total%20Stars&style=for-the-badge&color=00E8FF" />
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+> *"Software engineering is about solving real-world problems through reliable, maintainable, and scalable systems."*
+
+**Built with 💻, TypeScript, and Passion**
+
+---
+
+<a href="#top">⬆ Back to Top</a>
 
 </div>
 
@@ -876,8 +1102,6 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
-
-
 
 
 
