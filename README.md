@@ -249,7 +249,7 @@ A modular ETL pipeline that:
 
 ### 🚗 Car Sharing Platform
 
-> **Tech Stack:** React • TypeScript • Node.js • Express • PostgreSQL
+> **Tech Stack:** React • TypeScript • Node.js • NestJs • PostgreSQL
 
 A full-stack vehicle booking platform featuring:
 - ✅ JWT authentication and authorization
