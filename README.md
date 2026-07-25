@@ -228,7 +228,7 @@ A comprehensive platform that digitizes informal savings groups by managing:
 - ✅ Rule-based fraud detection algorithms
 - ✅ Statistical anomaly detection
 
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyse502/ikimina-guard)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00E8FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
 
 ---
