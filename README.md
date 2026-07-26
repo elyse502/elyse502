@@ -243,7 +243,7 @@ A modular ETL pipeline that:
 - ✅ Performs automated data quality checks
 - ✅ Loads into PostgreSQL with proper schemas
 
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elyse502/healthcare-data-integration-etl)
 
 ---
 
