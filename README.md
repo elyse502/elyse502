@@ -375,6 +375,9 @@ class SoftwareEngineer:
 
 <br /><br />
 
+<details align="center">
+	<summary><b><i>More About me...💻🔃⌛</i></b></summary><br/>
+
 <div align="center">
   
 <!--<h2> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture> <b>👷Elysée NIYIBIZI👨🏿‍💻 | 💻 Software Engineer | 🛸 Kigali, Rwanda🇷🇼</b> <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></picture> </h2>
@@ -657,6 +660,9 @@ src="https://img.shields.io/twitter/follow/Niyibizi_Elyse?logo=twitter&style=for
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 <br>
+
+
+</details>
 
 <!--
 
@@ -1107,7 +1113,6 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
-
 
 
 
