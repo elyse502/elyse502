@@ -26,6 +26,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://gitfut.com/elyse502">
+    <img align="center" src="https://gitfut.com/elyse502.png" alt="My GitFut card" height="280" style="margin-left: 20px; margin-bottom: 20px;"/>
+  </a>
+</p>
+
+<hr/>
+
 ## 📋 Table of Contents
 
 - [👋 About Me](#-about-me)
@@ -1113,6 +1121,8 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
+
 
 
 
