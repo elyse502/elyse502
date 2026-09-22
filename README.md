@@ -195,9 +195,13 @@ interface SoftwareEngineer {
 
 ### 📊 Activity Graph
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elyse502&theme=react-dark&bg_color=0D1117&color=00E8FF&line=00E8FF&point=FFFFFF&hide_border=true" width="100%" />
 </p>
+-->
+
+<p align="center"><img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elyse502&theme=algolia" alt="ElyseeDev" /></p>
 
 </div>
 
@@ -265,7 +269,9 @@ A full-stack vehicle booking platform featuring:
 - ✅ Vehicle availability tracking
 - ✅ Role-based access control
 
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheGymRwanda/c11-uok-scarlet-carsharing-frontend)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheGymRwanda/c11-uok-scarlet-carsharing-backend)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00E8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/TheGymRwanda)
 
 ---
 
@@ -1121,7 +1127,6 @@ Bash                     05 hrs 02 mins  ██████░░░░░░░
 </div>
  
 <img width=100% title="Coder Mkiige." alt="CoderMkiige.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
-
 
 
 
